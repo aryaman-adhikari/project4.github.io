@@ -1,0 +1,573 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter%3Awght%40200%3B300%3B400&display=swap&fbclid=IwAR0chq2b3_aiHBplF0G59yiJHvBS9SgzuIoZ7SSpjll86rRS3lAmrSdCJOw");
+
+.body{
+    margin: 0;
+    padding: 0;
+     height: auto ;
+     
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.aryan{
+    font-size: 10px;
+    font-family: inter;
+    color: grey;
+}
+.art{
+    display: flex;
+    position: absolute;
+    /* border: 4px solid black; */
+    height: 180px;
+    width: 800px;
+    top: 3%;
+
+}
+.arts{
+    display: flex;
+    position: absolute;
+    /* border: 2px solid black; */
+    
+    font-size: 60px;
+ font-family: inter;
+    
+}
+.director{
+    display: flex;
+    position: absolute;
+    left: 25.5%;
+    font-size: 60px;
+ font-family: inter;
+}
+
+.skys{
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+   
+ 
+}
+.sky{
+    display: flex;
+    position: absolute;
+    left: 15%;
+    top: 7%;
+}
+.from{
+ display: flex;
+ position: absolute;
+ top: 12%;
+ font-size: 60px;
+ font-family: inter;
+}
+.work{
+    display: flex;
+    position: absolute;
+    top: 21%;
+    font-size: 60px;
+ font-family: inter;
+}
+.navv{
+    display: flex;
+   justify-content: space-between;
+   
+    
+}
+.available{
+    font-size: 10px;
+    font-family: inter;
+    color: grey;
+    display: flex;
+    position: absolute;
+    top: 34%;
+ 
+}
+.in{
+    font-size: 10px;
+    font-family: inter;
+    color: grey;
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 33%;
+}
+.scroll{
+    font-size: 10px;
+    font-family: inter;
+    color: grey;
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 60%;
+}
+.copy{
+    font-size: 10px;
+    font-family: inter;
+    color: grey;
+    display: flex;
+    position: absolute;
+    top: 34%;
+    left: 97.5%;
+}
+.bimg{
+    display: flex;
+    top: 37%;
+    position: absolute;
+   border-radius: 10px;
+   /* background-color: black; */
+    height: 400px;
+    width: 100%;
+}
+.river{
+    height: 400px;
+    width: 100%;
+    border-radius: 10px;
+}
+.selected{
+    
+    height: 100px;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 104%;
+    border-top: 2px solid #525252 ;
+}
+
+.para{
+    display: flex;
+    position: absolute;
+    top: 10%;
+    font-family: inter;
+    font-size: 40px;
+}
+.harmony{
+    display: flex;
+    position: absolute;
+    /* background-color: black; */
+    top: 118%;
+    height: 25px;
+    width: 250px;
+    left: 1%;
+}
+.har{
+    font-family: inter;
+    color: #525252;
+    font-size: 10px;
+}
+.starwomen{
+    display: flex;
+    position: absolute;
+    height: 250px;
+    width: 560px;
+    /* background-color: black; */
+    top: 122%;
+    left: 1%;
+}
+.star{
+    height: 250px;
+    width: 560px;
+    border-radius: 10px;
+    
+}
+
+.beyond{
+    display: flex;
+    position: absolute;
+    /* background-color: black; */
+    top: 118%;
+    height: 25px;
+    width: 150px;
+    left: 44%;
+    /* background-color: black; */
+}
+.bey{
+    font-family: inter;
+    color: #525252;
+    font-size: 10px;
+}
+.bikee{
+    display: flex;
+    position: absolute;
+    top: 122%;
+    left: 44%;
+    height: 170px;
+    width: 360px;
+ 
+/* border: 5px solid black; */
+}
+.bike{
+    height: 170px;
+    width: 360px;
+    border-radius: 10px;
+}
+.home{
+    display: flex;
+    position: absolute;
+    /* border: 3px solid black; */
+    top: 118%;
+    left: 72%;
+    height: 25px;
+    width: 100px;
+}
+.hom{
+    font-family: inter;
+    color: #525252;
+    font-size: 10px;
+}
+.housee{
+    display: flex;
+    position: absolute;
+    /* border: 4px solid black; */
+    height:170px ;
+    width: 360px;
+    top: 122%;
+    left: 72%;
+
+}
+.house{
+height: 170px;
+width: 360px;
+border-radius: 10px;
+}
+.nut{
+    display: flex;
+    position: absolute;
+    /* border: 3px solid black; */
+    top: 165%;
+    left: 1%;
+    height: 25px;
+    width: 100px;
+}
+.nu{
+    font-family: inter;
+    color: #525252;
+    font-size: 10px;
+}
+
+.pear{
+    display: flex;
+    position: absolute;
+    /* border: 4px solid black; */
+    height:170px ;
+    width: 360px;
+    top: 169%;
+    left: 1%;
+
+}
+.pea{
+    height: 170px;
+    width: 360px;
+    border-radius: 10px;
+}
+.white{
+    display: flex;
+    position: absolute;
+    /* background-color: black; */
+    top: 165%;
+    height: 25px;
+    width: 250px;
+    left: 29%;
+}
+.whit{
+    font-family: inter;
+    color: #525252;
+    font-size: 10px;
+}
+.women{
+    display: flex;
+    position: absolute;
+    height: 250px;
+    width: 560px;
+    /* background-color: black; */
+    top: 169%;
+    left: 29%;
+}
+.wome{
+    height: 250px;
+    width: 560px;
+    border-radius: 10px;
+}
+
+.straw{
+    display: flex;
+    position: absolute;
+    /* border: 3px solid black; */
+    top: 165%;
+    left: 72%;
+    height: 25px;
+    width: 150px;
+}
+.stra{
+    font-family: inter;
+    color: #525252;
+    font-size: 10px;
+}
+.berry{
+    display: flex;
+    position: absolute;
+    /* border: 4px solid black; */
+    height:170px ;
+    width: 360px;
+    top: 169%;
+    left: 72%;
+
+}
+.berr{
+    height: 170px;
+    width: 360px;
+    border-radius: 10px;
+}
+.the{
+    display: flex;
+    position: absolute;
+    /* background-color: black; */
+    top: 225%;
+    width: 100%;
+    border-top: 2px solid #525252;
+}
+.journal{
+    display: flex;
+    position: absolute;
+    top: 10%;
+    font-family: inter;
+    font-size: 40px;
+    
+
+}
+.fuji{
+    display: flex;
+    position: absolute;
+    /* background-color: black; */
+    top: 237%;
+    height: 230px;
+    width: 430px;
+    left: 1%;
+}
+.fujii
+{
+    height: 230px;
+    width: 430px;
+    border-radius: 10px;
+
+}
+.grass{
+    display: flex;
+    position: absolute;
+    /* background-color: black; */
+    top: 237%;
+    height: 230px;
+    width: 430px;
+    left: 34%;
+}
+.gras
+{
+    height: 230px;
+    width: 430px;
+    border-radius: 10px;
+    
+}
+.italy{
+    display: flex;
+    position: absolute;
+    /* background-color: black; */
+    top: 237%;
+    height: 230px;
+    width: 430px;
+    left: 67%;
+}
+.ital
+{
+    height: 230px;
+    width: 430px;
+    border-radius: 10px;
+    
+}
+.read{
+    display: flex;
+    position: absolute;
+    /*   */
+    height: 50px;
+    width: 150px;
+    top: 279%;
+    left: 95%;
+}
+.readall{
+ font-size: 10px;
+ font-family: inter;
+ color: #525252;
+}
+.name{
+    display: flex;
+    position: absolute;
+    
+    height: 200px;
+    width: 100%;
+    top: 293%;
+    left: 1%;
+
+}
+.about{
+    display: flex;
+    position: absolute;
+    top: 10%;
+    font-family: inter;
+    font-size: 40px;
+    width: 100%;
+    border-top: 2px solid #525252;
+}
+.detail{
+    display: flex;
+    position: absolute;
+    height: 220px;
+    width: 170px;
+    /* border: 4px solid black; */
+    top: 310%;
+    left: 1%;
+}
+ .aryann{
+    height: 220px;
+    width: 170px;
+    border-radius: 10px;
+
+    box-shadow: 10px 4px 8px rgba(0, 0, 0, 0.8); 
+} 
+ .description{
+    height: 190px;
+    width: 1000px;
+    
+    display: flex;
+    position: absolute;
+    top: 310%;
+    left: 18%;
+} 
+.lore{
+    text-align: justify;
+    color:#333366;
+    font-family: sans-serif;
+} 
+.readd{
+    display: flex;
+    position: absolute;
+    height: 50px;
+    width: 150px;
+    top: 345%;
+    left: 95%;
+}
+.readalll{
+ font-size: 10px;
+ font-family: inter;
+ color: #525252;
+}
+
+.last{
+    display: flex;
+    position: absolute;
+    height: 600px;
+    width: 1320px;
+    /* border: 2px solid black; */
+    top: 363%;
+    left: 1%;
+
+} 
+.chanp{
+    height: 600px;
+    width: 1320px;
+    border-radius: 10px;
+}
+.touch{
+    height: 50px;
+    width: 200px;
+    display: flex;
+    position: absolute;
+    
+    top: 367%;
+    left: 2%;
+}
+.intouch{
+    color: white;
+    font-size: 15px;
+    font-family: inter;
+}
+.number{
+    height: 150px;
+    width: 500px;
+    
+     top: 370%;
+     display: flex;
+     position: absolute;
+     left: 2%;
+     
+
+}
+.phone{
+    color: white;
+    font-size: 60px;
+    font-family: inter;
+}
+.mail{
+    display: flex;
+    position: absolute;
+     /* border: 2px solid black;  */
+     height: 150px;
+     width: 900px;
+     top: 384%;
+     left: 2%;
+}
+.gmail{
+    color: white;
+    font-size: 55px;
+    font-family: inter;
+}
+
+.instagram{
+    display: flex;
+    position: absolute;
+    
+    top: 398%;
+    left: 2%;
+    height: 150px;
+    width: 350px;
+
+}
+.insta{
+    font-size: 50px;
+    font-family: inter;
+    color: white;
+    
+}
+
+.linkedin{
+    display: flex;
+    position: absolute;
+    
+    top: 409%;
+    left: 2%;
+    height: 150px;
+    width: 350px;
+
+}
+.linked{
+    font-size: 50px;
+    font-family: inter;
+    color: white;
+    
+
+}
+
+.github{
+    display: flex;
+    position: absolute;
+    
+    top: 419%;
+    left: 2%;
+    height: 150px;
+    width: 350px;
+}
+.git{
+    font-size: 50px;
+    font-family: inter;
+    color: white;
+    
+}
+
